@@ -1,5 +1,5 @@
 <h1 align="center">Assalamualaikum 👋, I'm Fahim</h1>
-<h3 align="center">💻 Coder | 🎮 Researcher | 🎯 Dreamer | 🚀 Always Learning</h3>
+<h3 align="center">💻 Coder | 🔎 Researcher | 🎯 Dreamer | 🚀 Always Learning</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&width=435&lines=Welcome+to+my+GitHub!;I+am+a+passionate+developer.;I+love+learning+new+tech!;Let's+build+something+great+🚀" alt="Typing SVG" />
