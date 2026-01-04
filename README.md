@@ -59,21 +59,7 @@ I'm a dedicated developer from **Bangladesh** with a keen interest in **Artifici
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 
----
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats-git-main-anuragishere.vercel.app/api?username=Fa-him&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats-git-main-anuragishere.vercel.app/api/top-langs/?username=Fa-him&layout=compact&theme=tokyonight&hide_border=true&count_private=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Fa-him&theme=tokyonight&hide_border=true)
-
-</div>
-
----
 
 ## 🏆 Achievements & Trophies
 
@@ -187,17 +173,7 @@ I'm always interested in:
 
 </div>
 
----
 
-## 📈 Activity Graph
-
-<div align="center">
-
-![Contribution Graph](https://github-contribution-stats.vercel.app/api/?username=Fa-him&theme=tokyonight)
-
-</div>
-
----
 
 ## 💻 Development Environment
 
@@ -215,7 +191,7 @@ Languages: C++, Python, JavaScript, Java, SQL
 
 ### 🎯 "The expert in anything was once a beginner" - Helen Hayes
 
-![Profile Views](https://visitcount.itsvg.in/api?id=Fa-him&icon=2&color=6)
+![Profile Views](https://komarev.com/ghpvc/?username=Fa-him&style=flat-square&color=blue)
 
 **Last Updated:** January 2025
 
