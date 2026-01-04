@@ -1,5 +1,5 @@
 # <div align="center">
-# ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=4000&pause=1000&center=true&vCenter=true&width=600&height=100&lines=Hey+%F0%9F%91%8B+I'm+Fahim;Passionate+Full-Stack+Developer;AI%2FML+Enthusiast+%7C+Cybersecurity+Researcher;Building+Tomorrow's+Solutions+Today+%F0%9F%9A%80)
+# ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=4000&pause=1000&center=true&vCenter=true&width=600&height=100&lines=Assalamualaikum+%F0%9F%91%8B+I'm+Fahim;Passionate+Full-Stack+Developer;AI%2FML+Enthusiast+%7C+Cybersecurity+Researcher;Building+Tomorrow's+Solutions+Today+%F0%9F%9A%80)
 # </div>
 
 <div align="center">
@@ -65,11 +65,11 @@ I'm a dedicated developer from **Bangladesh** with a keen interest in **Artifici
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fa-him&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats-git-main-anuragishere.vercel.app/api?username=Fa-him&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fa-him&layout=compact&theme=tokyonight&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats-git-main-anuragishere.vercel.app/api/top-langs/?username=Fa-him&layout=compact&theme=tokyonight&hide_border=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fa-him&theme=tokyonight&hide_border=true&stroke=0000)
+![GitHub Streak](https://streak-stats.demolab.com?user=Fa-him&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -189,11 +189,11 @@ I'm always interested in:
 
 ---
 
-## 📊 Activity Graph
+## 📈 Activity Graph
 
 <div align="center">
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Fa-him&theme=tokyonight&hide_border=true)
+![Contribution Graph](https://github-contribution-stats.vercel.app/api/?username=Fa-him&theme=tokyonight)
 
 </div>
 
@@ -215,7 +215,7 @@ Languages: C++, Python, JavaScript, Java, SQL
 
 ### 🎯 "The expert in anything was once a beginner" - Helen Hayes
 
-![Profile Views](https://komarev.com/ghpvc/?username=Fa-him&style=flat-square&color=blue)
+![Profile Views](https://visitcount.itsvg.in/api?id=Fa-him&icon=2&color=6)
 
 **Last Updated:** January 2025
 
