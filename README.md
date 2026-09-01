@@ -87,6 +87,3 @@
 </p>
 
 
-## 🐍 My Contribution Snake
-
-![GitHub Contribution Snake](https://github.com/Fa-him/Fa-him/blob/main/.github/workflows/snake.yml)
